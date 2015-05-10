@@ -1,5 +1,5 @@
 var sourceJson=[
-               {ico:"./image/homeicon.png",name:"主页",url:"http://fml927.github.io"},
+              // {ico:"./image/homeicon.png",name:"主页",url:"http://fml927.github.io"},
 			   {ico:"./image/wechaticon.jpg",name:"Wechat",url:"wechat.htm"},
 			   //{ico:"ic3.png",name:"腾讯QQ",url:"http://www.pengyaou.com"},
 			   //{ico:"ic4.png",name:"返回顶部",url:"http://www.pengyaou.com"}
