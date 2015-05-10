@@ -1,0 +1,38 @@
+body{
+	background-color:#F4F4f4;
+	font-family: sans-serif;
+	width: 80%;
+	margin-left:10%;
+}
+header h1{
+	font-family: sans-serif;
+	margin:1px;
+	text-align: left;
+	color:#3F6CFF;
+}
+
+#my_pic{
+	width: 90px;
+	height: 110px;
+}
+
+.info_table{
+	width: 690px;;
+}
+
+.bs_tb_cloum{
+	width:150px;  /* make 4colum & reserved for picture 90px*/
+}
+
+.bs_info_bold{
+	/*background-color: #FFFFFF;*/
+	margin-left:10px;
+	font-size:larger;
+	font-weight: bold;
+	text-align: left;
+}
+.bs_info{
+	margin-left:10px;
+	font-size:larger;
+	text-align: left;
+}

@@ -1,0 +1,34 @@
+@charset "utf-8";
+#beside {
+	width: 160px;
+	right: 0px;
+	position: fixed;
+}
+#beside>li {
+	width: 100%;
+	height: 60px;
+	border: 1px solid #ccc;
+	list-style: none;
+	margin-top: -1px;
+	background-color: #13a7c7;
+	margin-left: 100px;
+	cursor: pointer;
+}
+#beside>li:hover {
+	background-color: #2468a2;
+}
+#beside>li>a {
+	font: 15px "微软雅黑", Arial, Helvetica, sans-serif;
+	text-decoration: none;
+	color: #fff;
+	float: left;
+	margin-left: 10px;
+	margin-top: 20px;
+}
+.besideIco {
+	width: 60px;
+	height: 60px;
+	float: left;
+	background-repeat: no-repeat;
+	background-position: center;
+}
