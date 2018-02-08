@@ -1,8 +1,8 @@
 body{
 	background-color:#F4F4f4;
 	font-family: sans-serif;
-	width: 80%;
-	margin-left:10%;
+	width: 90%;
+	margin-left:5%;
 }
 header h1{
 	font-family: sans-serif;
@@ -17,7 +17,7 @@ header h1{
 }
 
 .info_table{
-	width: 80%;
+	width: 90%;
 }
 
 .bs_tb_cloum{
