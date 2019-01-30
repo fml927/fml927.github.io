@@ -1,3 +1,0 @@
-[submodule "submodule_test/optical-flow"]
-	path = submodule_test/optical-flow
-	url = https://github.com/xingdi-eric-yuan/optical-flow.git
